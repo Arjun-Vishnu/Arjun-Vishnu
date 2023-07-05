@@ -1,4 +1,4 @@
-<h1 align="center" onclick="window.location.href='https://arjun-portfolio.000webhostapp.com/'">Hi 👋, I'm Arjun</h1>
+<h1 align="center"><a href="https://arjun-portfolio.000webhostapp.com/">Hi 👋, I'm Arjun</a></h1>
 <h3 align="center">“As a self-taught MERN stack developer, I’ve dedicated  months of hard work to mastering my craft - day and night!”.Quality is my top priority and I always strive to deliver the best possible results. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore and learn new technologies and leverage them to solve real-life problems ✨</h3>
 <img align="right" width="400"src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-vishnu&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-vishnu" /> </p>
